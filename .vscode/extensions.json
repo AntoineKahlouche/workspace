@@ -18,6 +18,7 @@
         "esbenp.prettier-vscode",
         "fabiospampinato.vscode-todo-plus",
         "tomoki1207.pdf",
-        "toba.vsfire"
+        "toba.vsfire",
+        "humao.rest-client"
     ]
 }
