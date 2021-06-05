@@ -30,7 +30,8 @@
         ".eslintrc.js": true,
         ".vscode": true,
         "package.json": true,
-        "jsconfig.json": true
+        "jsconfig.json": true,
+        "README.md": true
     },
 
     "git.confirmSync": false,
