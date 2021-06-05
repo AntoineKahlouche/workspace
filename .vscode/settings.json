@@ -12,6 +12,7 @@
     "editor.fontLigatures": true,
     "editor.detectIndentation": false,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.rulers": [120],
 
     "emmet.includeLanguages": {
         "javascript": "javascriptreact"
@@ -43,6 +44,7 @@
     "prettier.tabWidth": 4,
     "prettier.useEditorConfig": false,
     "prettier.trailingComma": "none",
+    "prettier.printWidth": 120,
 
     "window.zoomLevel": 1,
 
