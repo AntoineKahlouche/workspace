@@ -1,0 +1,51 @@
+{
+    "breadcrumbs.enabled": false,
+
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.stickyTabStops": true,
+    "editor.folding": false,
+    "editor.minimap.enabled": false,
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "'JetBrains Mono'",
+    "editor.fontLigatures": true,
+    "editor.detectIndentation": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+
+    "files.autoSave": "afterDelay",
+    "files.eol": "\n",
+    "files.exclude": {
+        "**/node_modules": true,
+        "**/package-lock.json": true,
+        "**/.gitignore": true,
+        ".eslintrc.js": true,
+        ".vscode": true,
+        "package.json": true,
+        "jsconfig.json": true
+    },
+
+    "javascript.updateImportsOnFileMove.enabled": "never",
+
+    "prettier.jsxBracketSameLine": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.semi": false,
+    "prettier.singleQuote": true,
+    "prettier.tabWidth": 4,
+    "prettier.useEditorConfig": false,
+    "prettier.trailingComma": "none",
+
+    "window.zoomLevel": 1,
+
+    "workbench.tree.indent": 20,
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme"
+}
