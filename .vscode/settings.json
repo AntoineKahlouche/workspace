@@ -32,6 +32,8 @@
         "jsconfig.json": true
     },
 
+    "git.confirmSync": false,
+
     "javascript.updateImportsOnFileMove.enabled": "never",
 
     "prettier.jsxBracketSameLine": true,
